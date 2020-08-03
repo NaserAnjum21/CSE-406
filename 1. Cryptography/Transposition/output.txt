@@ -1,0 +1,17 @@
+Key Length -->> 5
+
+The Deciphered text- 
+
+thedeltaforcewillattackatdawnmovethepanzartoeastpointcontactwithbravoheisintheeastcheckpointheadquarterinfullattentionmodexxx
+
+
+The key order-->> 1 5 3 4 2 
+
+
+After encoding, the cipher is - 
+
+TLRLADOEAAINWRETSCNDTFTIDEOITTMHZEOOTBHNAEIARNATOXEAEAKWEATTTATVSECPHURLENXDFWTANTNOPCCHOIEHOEAILNMXHTCLCAVPRSNTIAIHTKTQEUTOE
+
+
+125 of 125 characters matched
+Accuracy--> 100 percent
